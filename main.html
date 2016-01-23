@@ -1,0 +1,22 @@
+<!-- Jumbotron -->
+      <div class="jumbotron">
+        <div class="row">
+        	<div class="col-md-4">
+            <img src="http://techguystaging.com/files/computer-icon.png">
+        	</div>
+            <h1>Computer Service</h1>
+        	<p class="lead">We understand you have a busy schedule, so we offer convenient drop-off services at our location, where we will provide you with any service you need while you carry on with your day. .</p>
+        	</div>
+      </div>
+
+      <!-- Example row of columns -->
+     
+      <div class="row">
+        <div ng-repeat="service in services">
+        <div class="col-lg-4">
+          <h2> {{service.name}}</h2>
+          
+          <p>{{service.description}}</p>
+        </div> 
+        </div>
+        </div>

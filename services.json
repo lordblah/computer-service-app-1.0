@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware repair",
+    "description": "Mmm computer repair. Just thinking about it makes our geeky little hearts race. Whether it involves replacing bad RAM, a malfunctioning motherboard or a cracked screen, we service most major brands regardless of when the device was purchased. Some repairs can be done onsite at your location, some can be done at our Precinct in your local Best Buy® store, but more extensive repairs will need to be sent to the experts at Geek Squad City, our central repair facility in Hillview, Kentucky.",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Software",
+    "description": "AP Computers specializes in software development and can handle any complexity in software design. We take on time-sensitive projects using development techniques and project management best practices to make sure that the software you receive is of the highest quality, does what you want it to and is delivered on time with no headaches",
+    "image": "computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "description": "Repairing your iPod Touch, IPhone, cell phone, ipad, tablets, MacBook Pro, iMac, Laptops is almost always less expensive than replacing it! These devices have parts that wear out, such as; batteries, screens, headphone jacks, etc, which can all be repaired for a fraction of the cost of replacing the device. Plus, with a repair, you will not lose your data and save the time and effort it takes to re-install your apps, music and videos. We make it easy to get your device repaired quickly and inexpensively, Why wait?",
+    "image": "computer-icon.png"
+  }
+  ]
